@@ -97,12 +97,10 @@
 
 
 ## :clipboard: Documents
-> [📜 API 명세서 예시](https://docs.google.com/spreadsheets/d/1XODUQC8tFNQjoZS7I4rcyaQpin6WzuuruZIVmdMwmeU/edit#gid=0)
+> [📜 API 명세서](https://documenter.getpostman.com/view/41188267/2sB2qZENNs)
 > 
-> [📜 요구사항 정의서 예시](https://docs.google.com/spreadsheets/d/1BaDEpeytl_rQ_vckIXGJtCL4NcmPvemCSnXJnhckzLU/edit?usp=sharing)
+> [📜 요구사항 정의서](https://docs.google.com/document/d/1he4XTaUivLDLF_A0sgQsAVxApbGX_fGhwZKjlpJpjwg/edit?tab=t.1y371wrul365)
 > 
-> [📜 ERD 예시](https://drive.google.com/file/d/1jvaFIwfOkKLRriFZxzOwJTE-FJ7H3IFe/view?usp=sharing)
-> 
-> [📜 테이블 명세서 예시](https://docs.google.com/spreadsheets/d/13y8xi67UQYCzX1xgSORtlA1_vXRFq6OQuVDG2o7fhO0/edit#gid=0)
+> [📜 ERD](https://www.erdcloud.com/d/Pb2PpEMnk3HuK9o8P)
 >
-> [📜 화면 정의서 예시](https://docs.google.com/spreadsheets/d/1vud5xV8rB9Y6akOIma49hSzdZsoj8DVG0-fYE4NdP_g/edit?usp=sharing)
+> [📜 Flow Chart](https://drive.google.com/file/d/1t5MrrreN4SDx9DKSnZVz1X-JWH4Evwv_/view)
