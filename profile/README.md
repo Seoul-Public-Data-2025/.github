@@ -79,7 +79,12 @@
 
 ### Code Convention
 >BE
-> - 
+> - 패키지명 전체 소문자
+> - 응답에 사용되지 않는 필드명은 SNAKE_CASE
+> - 클래스명 PASCAL_CASE
+> - 공통 응답 포맷은 {"success": bool, "message": str} 형식이며, 필드명은 CAMEL_CASE
+> - FCM 메시지 형식은{"notification": {"title": title,"body": body},"data": data or {}}
+> - 모든 뷰는 APIView 사용(user 앱 제외)
 
 > FE
 > - MVVM 아키텍처
